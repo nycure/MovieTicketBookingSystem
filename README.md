@@ -138,7 +138,7 @@
  - **Click on login at top right of the page.**
   ![Login](https://github.com/nycure/MovieTicketBookingSystem/blob/main/images/399908175-13a71504-bdea-4cc8-9058-533f5e4e4374.png)
  - **Login page will appear Enter your email and password**
-   ![Screenshot 2025-01-03 141311](https://github.com/user-attachments/assets/1e516cc6-85f8-4ee8-b9bd-3f60d3420ca5)
+   ![Screenshot 2025-01-03 141311](https://github.com/nycure/MovieTicketBookingSystem/blob/main/images/399908707-1e516cc6-85f8-4ee8-b9bd-3f60d3420ca5.png?raw=true)
  - **Then select the movie which you want to book.**
    ![Screenshot 2025-01-03 141018](https://github.com/user-attachments/assets/d5a2588b-718c-4d7c-b5a2-8695a7392a86)
  - **Then all the showtimes will appear related to that movie, Select any of them which you want.** 
