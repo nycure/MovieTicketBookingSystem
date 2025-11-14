@@ -84,7 +84,7 @@
 
 ## Installation & Setup
   - **Clone the repository:**
-    - git clone: https://github.com/Nitin-Yadav-developer/movie-ticket-booking-system.git
+    - git clone: https://github.com/nycure/movie-ticket-booking-system.git
 
   - **Configure database connection:**
      - Open src/main/java/com/util/Constants.java
